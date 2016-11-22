@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">yjdtest</string>
-    <string name="hello_world">Hello world! ver 22.0</string>
+    <string name="hello_world">Hello world! ver 23.0</string>
     <string name="action_settings">Settings</string>
 
 </resources>
